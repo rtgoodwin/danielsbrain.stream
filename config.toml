@@ -1,4 +1,4 @@
-baseURL = "http://rtgoodwin.github.io/danielsbrain.stream/"
+baseURL = "https://rtgoodwin.github.io/danielsbrain.stream/"
 languageCode = "en-us"
 title = "Daniel's Brain"
 theme = "minimal"
