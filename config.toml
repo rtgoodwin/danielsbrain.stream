@@ -1,6 +1,6 @@
 baseURL = "http://rtgoodwin.github.io/danielsbrain.stream/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Daniel's Brain"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
@@ -8,7 +8,7 @@ publishDir = "docs"
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "Something Coming Soon"
     githubUsername = "#"
     accent = "red"
     showBorder = true
